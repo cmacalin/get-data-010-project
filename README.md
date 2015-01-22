@@ -2,7 +2,7 @@
 ===
 This repository contains the UCI HAR Dataset, which describes the results the "Human Activity Recognition Using Smartphones" experiment conducted in Genora, Italy. For more information on this experiment, please refer to the  `README.txt` file in the `UCI HAR Dataset` directory.  
 
-The  `run_analysis.R` script takes the data from the `test` and `train` directories, combines them and creates an independent, tidy dataset that 
+The  `run_analysis.R` script takes the data from the `test` and `train` directories, combines them and creates an independent, tidy dataset that displays the mean values of selected accelerometer and gyroscope 3-axial raw signals, organized by each subject, then by each activity. 
 
 # Software
 ===
